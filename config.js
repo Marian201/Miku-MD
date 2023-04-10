@@ -15,7 +15,7 @@ global.packname = "HEX BOT"
 global.author = "By: Marian"
 global.OwnerName = "Marian"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/Jhd35JGdDNN8nzeBfXwtet"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
